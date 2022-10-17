@@ -1,7 +1,20 @@
 header {
     background-color:olive;
+    border-radius: 30px;
 }
 h2 {
     background-color: burlywood;
     color: cadetblue;
+    text-align: center;
+    border-radius: 30px;
+}
+h3 {
+    background-color: black;
+    color:snow;
+    text-align: center;
+    border-radius: 30px;
+}
+img {
+    margin-left: 550px;
+    border-radius: 30px;
 }
